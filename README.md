@@ -1,5 +1,5 @@
 # Yes Bank Stock Closing Price Prediction Using Machine Learning
-
+#Video Link:https://docs.google.com/videos/d/1U6sDBMJ8385jSG0PI9UAk_U-PmBumjd_8t8xS4hrZ80/edit?usp=drive_link
 ## Project Overview
 
 This project focuses on analyzing historical Yes Bank stock prices and developing machine learning models to estimate stock closing prices.
